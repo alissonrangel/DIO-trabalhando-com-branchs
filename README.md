@@ -1,5 +1,11 @@
 # DIO-trabalhando-com-branchs
 
+Bem vindo a Dio-trabalhando-com-branchs
+O Repositório de exercício do curos de git da DIO.
+
+* git config --global --list
+* git config --global core.editor "code --wait"
+
 * git branch <new_branch>
 * git branch -d <branch>
 * git branch -m <new_name>
