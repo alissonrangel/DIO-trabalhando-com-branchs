@@ -19,3 +19,6 @@
 * git revert X git reset
 * git reset --soft HEAD~1 -> muda para antes de dar commit especificado
 * git reset --mixed HEAD~1 -> muda para antes de dar o git add do commit especificado
+* git reset --mixed HEAD~1 -> muda para antes de dar o git add do commit especificado
+* git reset --hard HEAD~1 -> destroi antes das alterações
+* git revert HEAD~1
